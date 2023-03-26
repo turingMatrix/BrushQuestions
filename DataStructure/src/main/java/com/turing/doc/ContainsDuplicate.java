@@ -1,4 +1,4 @@
-package com.turing.doc.containsDuplicate;
+package com.turing.doc;
 
 import java.util.*;
 
