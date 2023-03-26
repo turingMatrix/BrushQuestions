@@ -1,4 +1,4 @@
-package com.turing.doc.binarySearch;
+package com.turing.doc;
 
 /**
  * TODO 二分查找
