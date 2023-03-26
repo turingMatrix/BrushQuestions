@@ -1,6 +1,5 @@
-package com.turing.doc.designHashSet;
+package com.turing.doc;
 
-import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
 
